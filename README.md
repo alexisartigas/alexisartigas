@@ -16,8 +16,7 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado desarrollador web con experi
 
 - 🌐 [Mi Portafolio](#URL-de-tu-portafolio-aquí) (en COnstrucción)
 - 📧 [Email](mailto:alexisartigas@gmail.com)
-- 💼 [LinkedIn](#[URL-de-tu-LinkedIn-aquí](https://www.linkedin.com/in/alexis-artigas-3b8855ab/))
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexis-artigas-3b8855ab/)
 ---
 
 ⭐️ De Alexis Artigas(https://github.com/tunombredeusuario)
