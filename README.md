@@ -1,16 +1,23 @@
-### Hi there 👋
+# ¡Hola! Soy Alexis Artigas 👋
 
-<!--
-**alexisartigas/alexisartigas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub. Soy un apasionado desarrollador web con experiencia en **HTML**, **JS**, **CSS** y **PHP**. Me encanta crear aplicaciones web eficientes y estéticamente agradables.
 
-Here are some ideas to get you started:
+## 🛠 Habilidades Técnicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes de Programación:** HTML, JS, CSS, PHP.
+- **Herramientas y Tecnologías:** Git, Webpack, SASS, jQuery.
+- **Bases de Datos:** MySQL.
+
+## 📈 Estadísticas de GitHub
+
+![TuNombreAqui's GitHub stats](https://github-readme-stats.vercel.app/api?username=tunombredeusuario&show_icons=true&theme=radical)
+
+## 📫 Contáctame
+
+- 🌐 [Mi Portafolio](#URL-de-tu-portafolio-aquí)
+- 📧 [Email](mailto:tuemail@example.com)
+- 💼 [LinkedIn](#URL-de-tu-LinkedIn-aquí)
+
+---
+
+⭐️ De Alexis Artigas(https://github.com/tunombredeusuario)
