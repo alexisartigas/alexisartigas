@@ -5,7 +5,7 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado desarrollador web con experi
 ## 🛠 Habilidades Técnicas
 
 - **Lenguajes de Programación:** HTML, JS, CSS, PHP.
-- **Herramientas y Tecnologías:** Git, Webpack, SASS, jQuery.
+- **Herramientas y Tecnologías:** Git, jQuery.
 - **Bases de Datos:** MySQL.
 
 ## 📈 Estadísticas de GitHub
@@ -14,7 +14,7 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado desarrollador web con experi
 
 ## 📫 Contáctame
 
-- 🌐 [Mi Portafolio](#URL-de-tu-portafolio-aquí) (en COnstrucción)
+- 🌐 [Mi Portafolio](#URL-de-tu-portafolio-aquí) (en Construcción)
 - 📧 [Email](mailto:alexisartigas@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/alexis-artigas-3b8855ab/)
 ---
