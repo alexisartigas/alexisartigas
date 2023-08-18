@@ -19,4 +19,4 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado desarrollador web con experi
 - 💼 [LinkedIn](https://www.linkedin.com/in/alexis-artigas-3b8855ab/)
 ---
 
-⭐️ De Alexis Artigas(https://github.com/tunombredeusuario)
+⭐️ De Alexis Artigas(https://github.com/alexisartigas)
