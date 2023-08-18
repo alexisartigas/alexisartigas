@@ -6,7 +6,7 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado desarrollador web con experi
 
 - **Lenguajes de Programación:** 
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-  - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
+   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
 
 - **Bases de Datos:**
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
