@@ -22,7 +22,7 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado desarrollador web con experi
 
 ## 📈 Estadísticas de GitHub
 
-![TuNombreAqui's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexisartigas&show_icons=true&theme=radical)
+![Alexis Artigas GitHub stats](https://github-readme-stats.vercel.app/api?username=alexisartigas&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexisartigas&layout=compact)](https://github.com/alexisartigas)
 
